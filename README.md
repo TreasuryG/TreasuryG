@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, video games, finance, music, and firearms.
 - 🌱 I’m currently learning Python, as I am a beginner.
 - 💞️ I’m looking to collaborate on smaller projects with other, newer programmers such as myself.
-- 📫 You can reach me here or on Discord (send a message).
+- 📫 You can reach me here or on Discord.
 
 <!---
 TreasuryG/TreasuryG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
