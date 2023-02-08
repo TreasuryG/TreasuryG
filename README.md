@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TreasuryGG or Adrian.
+- 👋 Hi, I’m Treasury!
 - 👀 I’m interested in programming, video games, finance, music, and firearms.
 - 💞️ I’m looking to collaborate on smaller projects with other, newer programmers such as myself.
 - 📫 You can reach me here or on Discord.
